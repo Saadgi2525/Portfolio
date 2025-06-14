@@ -1,0 +1,20 @@
+[
+    {
+      "role": "Full Stack Developer",
+      "company": "Inlustro Pvt.Ltd.",
+      "duration": "Aug 2021 - Feb 2022",
+      "description":"Developed web applications with MERN stack and Vue.js, boosting user engagement by 20%. Engineered RESTful APIs with Express.js and Nest.js, optimizing database operations with Prisma ORM and PostgreSQL for 30% faster performance. Integrated HTML5, React, and Plyr video players to enhance media playback. Conducted comprehensive API testing with Postman, ensuring 100% functionality and scalability.",
+      "icons": "https://res.cloudinary.com/dbxu58ojt/image/upload/v1743009254/coding_sljv48.png",
+      "logo":"https://res.cloudinary.com/dbxu58ojt/image/upload/v1749913687/9bd05d3b-156b-474e-a562-61fcf9af6a70.png"
+    },
+    {
+      "role": "Software Engineer",
+      "company": "Entrata India",
+      "duration": "Aug 2021 - Feb 2022",
+      "description":"Developed web applications with MERN stack and Vue.js, boosting user engagement by 20%. Engineered RESTful APIs with Express.js and Nest.js, optimizing database operations with Prisma ORM and PostgreSQL for 30% faster performance. Integrated HTML5, React, and Plyr video players to enhance media playback. Conducted comprehensive API testing with Postman, ensuring 100% functionality and scalability.",
+      "icons": "https://res.cloudinary.com/dbxu58ojt/image/upload/v1743009254/coding_sljv48.png",
+      "logo":"https://res.cloudinary.com/dbxu58ojt/image/upload/v1749913741/0778b73a-ec04-405a-ad60-c64fe6c1dce0.png"
+    }
+
+  ]
+  

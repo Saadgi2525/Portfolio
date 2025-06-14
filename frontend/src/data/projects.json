@@ -1,0 +1,49 @@
+[
+    {
+      "id": 1,
+      "name": "Velora",
+      "video":"https://res.cloudinary.com/dbxu58ojt/video/upload/v1744961884/Velora_mvothu.mp4",
+      "fullDesc": "Velora is a fashion-forward ecommerce platform for men and women, offering clothing, accessories, and footwear with seamless shopping features and curated collections like New Arrivals, Sale etc.",
+      "technologies": ["React", "Tailwind CSS"],
+      "github": "https://github.com/Saadgi2525/EcommerceWeb",
+      "liveDemo": "https://velora-chi.vercel.app/"
+    },
+    {
+      "id": 2,
+      "name": "Women Safety Application",
+      "video":"https://res.cloudinary.com/dbxu58ojt/video/upload/v1744962842/WOSAF_-_Made_with_Clipchamp_vinozf.mp4",
+      "fullDesc": "The Women Safety Application uses real-time video analytics to detect threats, weapons, falls, and crowd patterns, automatically triggering an SOS alert in emergencies for rapid intervention.",
+      "technologies": ["Python", "CNN", "Yolov5", "PushBullet"],
+      "github": "https://github.com/Saadgi2525/Women-Threat-Detection",
+      "liveDemo": ""
+    },
+    {
+      "id": 3,
+      "name": "Portfolio Website",
+      "video":"https://res.cloudinary.com/dbxu58ojt/video/upload/v1744963299/Portfolio_hkrvy5.mp4",
+      "fullDesc": "My portfolio website showcases my skills, projects, and achievements. You can explore my LinkedIn, LeetCode, and GitHub, and easily connect with me through the contact section.",
+      "technologies": ["React", "Tailwind CSS", "Javascript"],
+      "github": "https://github.com/your-profile/syntra-elearning",
+      "liveDemo": "https://your-live-project.com"
+    },
+    {
+      "id": 4,
+      "name": "Allergy Detection",
+      "video":"https://res.cloudinary.com/dbxu58ojt/video/upload/v1747041324/Allergy_Detection_duvmyu.mp4",
+      "fullDesc": "The Allergy Detection project uses Python and image processing to identify allergens in food. Users input their allergies and upload an image of an ingredient list, allowing to scan and detect potential allergens.",
+      "technologies": ["Flask", "Python", "MySQL", "HTML", "CSS"],
+      "github": "https://github.com/Saadgi2525/Allergy_Detection",
+      "liveDemo": "https://github.com/Saadgi2525/Allergy_Detection"
+    },
+    {
+    "id": 5,
+    "name": "Whack-a-Mole",
+    "video": "https://res.cloudinary.com/dbxu58ojt/video/upload/v1749055330/Recording_2025-06-04_221109_i2ctb6.mp4",
+    "fullDesc": "Whack-a-Mole is an interactive browser-based game where players try to hit as many moles as possible within 60 seconds. The game is built using HTML, CSS, and JavaScript and multiple difficulty levels.",
+    "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+    "github": "https://github.com/Saadgi2525/WhackAMole",
+    "liveDemo": "https://whack-a-mole-wheat.vercel.app/"
+}
+   
+  ]
+  
